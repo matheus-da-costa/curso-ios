@@ -1,2 +1,4 @@
 .DS_Store
 **/.DS_Store
+Gerenciador de Eventos/**/xcuserdata/
+Gerenciador de Eventos/**/*.xcodeproj/xcuserdata/
